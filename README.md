@@ -1,6 +1,6 @@
 # Operating Systems Lab (CEC301)
 
-A collection of programs and simulations for the Operating Systems lab, covering core OS concepts from process creation to file allocation. Implemented in a Jupyter notebook (`os.ipynb`).
+A collection of programs and simulations for the Operating Systems lab, covering core OS concepts from process creation to file allocation. Implemented in a Jupyter notebook (`DU_OS_Lab_Manual_Python.ipynb`).
 
 ## List of Programs
 
